@@ -14,7 +14,7 @@ Then visit [http://localhost:8000](http://localhost:8000). Fonts, photographs, a
 
 ## Deployment
 
-The website is published from the dedicated `gh-pages` branch. Run `./scripts/deploy-pages.sh` to publish or update it. In the repository, choose **Settings → Pages → Deploy from a branch → `gh-pages` → `/ (root)`** for the initial setup. The preview URL appears in the Pages settings after the first deployment.
+The website is published from the dedicated `gh-pages` branch at [https://mdimamhosen.me/bma-homepage-concept/](https://mdimamhosen.me/bma-homepage-concept/). Run `./scripts/deploy-pages.sh` to publish or update it. The initial Pages configuration uses **Deploy from a branch → `gh-pages` → `/ (root)`**.
 
 The preview intentionally carries a “concept preview” banner and a `noindex` directive. GitHub Pages sites are publicly accessible to anyone with the URL; `noindex` asks search engines not to list the preview but does not restrict access. The source repository is private.
 
