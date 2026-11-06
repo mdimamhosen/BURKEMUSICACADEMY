@@ -1,0 +1,14 @@
+Replace the bracketed slots with times you’re available before sending.
+
+Hi [Client Name],
+
+I’d be glad to talk through the homepage direction. Would any of these times work for you?
+
+• [Day, date] at [time] ET
+• [Day, date] at [time] ET
+• [Day, date] at [time] ET
+
+I’ll send you a shareable homepage concept link before the call. It’s a visual concept of the homepage rebuild I’d implement in your existing Squarespace site; the final build would happen in Squarespace.
+
+Best,
+[Your Name]
