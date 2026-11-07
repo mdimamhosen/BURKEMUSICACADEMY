@@ -14,7 +14,7 @@ Then visit [http://localhost:8000](http://localhost:8000). Fonts, photographs, a
 
 ## Deployment
 
-The website is published from the dedicated `gh-pages` branch at [https://mdimamhosen.me/bma-homepage-concept/](https://mdimamhosen.me/bma-homepage-concept/). Run `./scripts/deploy-pages.sh` to publish or update it. The initial Pages configuration uses **Deploy from a branch → `gh-pages` → `/ (root)`**.
+The `main` branch deploys automatically to [GitHub Pages](https://mdimamhosen.me/bma-homepage-concept/) through `.github/workflows/deploy.yml`. The workflow publishes only `index.html`, `css/`, and `js/`.
 
 The preview intentionally carries a “concept preview” banner and a `noindex` directive. GitHub Pages sites are publicly accessible to anyone with the URL; `noindex` asks search engines not to list the preview but does not restrict access. The source repository is private.
 
@@ -30,3 +30,4 @@ The preview intentionally carries a “concept preview” banner and a `noindex`
 ## Rebuild in Squarespace
 
 See [`SQUARESPACE.md`](SQUARESPACE.md) for the section order, content notes, and implementation checklist. Update [`CLIENT-REPLY.txt`](CLIENT-REPLY.txt) with real availability before sending it.
+# BURKEMUSICACADEMY
